@@ -1,0 +1,74 @@
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.exe.config
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.exe
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.pdb
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.AssemblyReference.cache
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.SuggestedBindingRedirects.cache
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.Form1.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.students.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.courses.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.Properties.Resources.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.GenerateResource.cache
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.CoreCompileInputs.cache
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.exe
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.pdb
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.Enroll.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.exe.manifest
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.application
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.exe.manifest
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.application
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.home.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\DocumentFormat.OpenXml.dll
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\DocumentFormat.OpenXml.xml
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.CopyComplete
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.Exceltodb.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.splash.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\studentEnroll.mdf
+E:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\studentEnroll_log.ldf
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.login.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.accounts.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.roles.resources
+E:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.signup.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\studentEnroll.mdf
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\studentEnroll_log.ldf
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.exe.config
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.exe.manifest
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.application
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.exe
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\student enrolled.pdb
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\DocumentFormat.OpenXml.dll
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\DocumentFormat.OpenXml.xml
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.AssemblyReference.cache
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.Form1.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.signup.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.roles.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.Enroll.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.Exceltodb.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.home.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.login.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.splash.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.accounts.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.students.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.Properties.Resources.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.GenerateResource.cache
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.CoreCompileInputs.cache
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.exe.manifest
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.application
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.csproj.CopyComplete
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.exe
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student enrolled.pdb
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.attendance.attendancemain.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.attendance.attendancefields.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\Bogus.dll
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\AForge.dll
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\AForge.Video.DirectShow.dll
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\AForge.Video.dll
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\zxing.dll
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\zxing.presentation.dll
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\AForge.xml
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\AForge.Video.xml
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\AForge.Video.DirectShow.xml
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\zxing.xml
+D:\all\pro\c Sharp\student enrolled\student enrolled\bin\Debug\zxing.presentation.xml
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.coursse.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.Student.resources
+D:\all\pro\c Sharp\student enrolled\student enrolled\obj\Debug\student_enrolled.forms.course.resources
